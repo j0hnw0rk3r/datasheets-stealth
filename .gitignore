@@ -1,4 +1,6 @@
 .git
-.sh
-.log
-.sql
+/*.sh
+/*.log
+/*.sql
+/*.json
+/node_modules
